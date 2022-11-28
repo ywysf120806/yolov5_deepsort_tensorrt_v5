@@ -1,5 +1,0 @@
-/data/ywy/model-research/track/yolov5_deepsort_tensorrt_v5/tensorrtx/deepsort-tensorrt/build/CMakeFiles/demo.dir
-/data/ywy/model-research/track/yolov5_deepsort_tensorrt_v5/tensorrtx/deepsort-tensorrt/build/CMakeFiles/edit_cache.dir
-/data/ywy/model-research/track/yolov5_deepsort_tensorrt_v5/tensorrtx/deepsort-tensorrt/build/CMakeFiles/deepsort.dir
-/data/ywy/model-research/track/yolov5_deepsort_tensorrt_v5/tensorrtx/deepsort-tensorrt/build/CMakeFiles/rebuild_cache.dir
-/data/ywy/model-research/track/yolov5_deepsort_tensorrt_v5/tensorrtx/deepsort-tensorrt/build/CMakeFiles/onnx2engine.dir
