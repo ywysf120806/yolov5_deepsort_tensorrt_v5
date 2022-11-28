@@ -53,7 +53,7 @@
 > 修改配置文件 configs/deep_sort.yaml 各参数
             （参数解析：
 >>         RID_CKPT为deep模型存放的路径
->> 			MAX_DIST：最大余弦距离，用于级联匹配；
+>> 	   MAX_DIST：最大余弦距离，用于级联匹配；
 >>         MIN_CONFIENCE:置信度阈值；
 >>         NMS_MAX_OVERLAP：非极大值抑制阈值；
 >>         MAX_IOU_DISTANCE：最大IOU阈值；
