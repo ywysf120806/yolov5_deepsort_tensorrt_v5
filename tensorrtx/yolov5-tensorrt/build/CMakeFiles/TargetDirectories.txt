@@ -1,0 +1,4 @@
+/data/ywy/model-research/track/yolov5_deepsort_tensorrt_v5/tensorrtx/yolov5-tensorrt/build/CMakeFiles/rebuild_cache.dir
+/data/ywy/model-research/track/yolov5_deepsort_tensorrt_v5/tensorrtx/yolov5-tensorrt/build/CMakeFiles/edit_cache.dir
+/data/ywy/model-research/track/yolov5_deepsort_tensorrt_v5/tensorrtx/yolov5-tensorrt/build/CMakeFiles/myplugins.dir
+/data/ywy/model-research/track/yolov5_deepsort_tensorrt_v5/tensorrtx/yolov5-tensorrt/build/CMakeFiles/yolov5.dir
