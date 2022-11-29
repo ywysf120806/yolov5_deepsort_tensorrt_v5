@@ -90,3 +90,8 @@
     5. cmake ..
     6. make (生成yolosort 二进制文件)
     7. ./yolosort 运行程序，推理视频并保存推理的结果文件
+    
+    ### 运行结果展示（从视频中截取其中一帧）
+    
+    ![result](https://user-images.githubusercontent.com/57004745/204475014-8fa47211-d464-4506-92e3-92a9337ff351.png)
+
