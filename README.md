@@ -93,5 +93,5 @@
     
     ### 运行结果展示（从视频中截取其中一帧）
     
-    ![result](https://user-images.githubusercontent.com/57004745/204475014-8fa47211-d464-4506-92e3-92a9337ff351.png)
+    ![result](result.png)
 
