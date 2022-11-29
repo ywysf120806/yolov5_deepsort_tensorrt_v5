@@ -1,6 +1,13 @@
 
 echo "yolov5模型 型号(s,m,l)： $1"
 
+if [ ! -d "yolov5_deepsort_tensorrt_deploy/weights" ]; then
+  mkdir -p yolov5_deepsort_tensorrt_deploy/weights
+else
+  rm -r yolov5_deepsort_tensorrt_deploy/weights
+  mkdir -p yolov5_deepsort_tensorrt_deploy/weights
+fi
+
 cd yolov5_train/
 python3 gen_wts.py -w ../model_origin/yolov5.pt -o ../yolov5_deepsort_tensorrt_deploy/weights/yolov5.wts
 
