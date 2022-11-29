@@ -13,7 +13,7 @@ python3 gen_wts.py -w ../model_origin/yolov5.pt -o ../yolov5_deepsort_tensorrt_d
 
 cd ../tensorrtx/yolov5-tensorrt/
 
-if [ ! -d "/build" ]; then
+if [ ! -d "build" ]; then
   mkdir build
 else
   rm -r build
@@ -33,7 +33,7 @@ echo "deepsort.onnx path"
 
 cd ../tensorrtx/deepsort-tensorrt
 
-if [ ! -d "/build" ]; then
+if [ ! -d "build" ]; then
   mkdir build
 else
   rm -r build
@@ -49,7 +49,7 @@ echo "deepsort.engine transfer sucess"
 
 cd ../../../yolov5_deepsort_tensorrt_deploy
 
-if [ ! -d "/build" ]; then
+if [ ! -d "build" ]; then
   mkdir build
 else
   rm -r build
