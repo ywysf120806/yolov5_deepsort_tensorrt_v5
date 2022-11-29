@@ -93,6 +93,6 @@
     
     ### 运行结果展示（从视频中截取其中一帧）
     
-    ![image2](image1.png)
-    ![result](result.png)
+>   ![image2](image1.png)
+>   ![result](result.png)
 
